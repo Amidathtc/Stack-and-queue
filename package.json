@@ -1,0 +1,12 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only Assigment.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
